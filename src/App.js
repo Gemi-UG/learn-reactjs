@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Trader Gemi UG
+          Nha giao dich tai chinh vi dai Gemi UG
         </p>
 
       </header>
